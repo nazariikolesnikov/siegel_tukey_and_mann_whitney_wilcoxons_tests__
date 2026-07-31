@@ -1,1 +1,1 @@
-# Siegel-Tukey Z-tests and Mann-Whitney-Wilcoxons T-tests (Practical Training)
+# Siegel-Tukey Z-test and Mann-Whitney-Wilcoxons T-test (Practical Training)
