@@ -1,1 +1,1 @@
-# siegel_tukey_and_mann_whitney_wilcoxons_tests__
+# Siegel-Tukey Z-tests and Mann-Whitney-Wilcoxons T-tests (Practical Training)
